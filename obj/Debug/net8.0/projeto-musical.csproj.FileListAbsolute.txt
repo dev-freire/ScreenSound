@@ -1,0 +1,14 @@
+/home/junior/Área de Trabalho/projeto-musical/bin/Debug/net8.0/projeto-musical
+/home/junior/Área de Trabalho/projeto-musical/bin/Debug/net8.0/projeto-musical.deps.json
+/home/junior/Área de Trabalho/projeto-musical/bin/Debug/net8.0/projeto-musical.runtimeconfig.json
+/home/junior/Área de Trabalho/projeto-musical/bin/Debug/net8.0/projeto-musical.dll
+/home/junior/Área de Trabalho/projeto-musical/bin/Debug/net8.0/projeto-musical.pdb
+/home/junior/Área de Trabalho/projeto-musical/obj/Debug/net8.0/projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Área de Trabalho/projeto-musical/obj/Debug/net8.0/projeto-musical.AssemblyInfoInputs.cache
+/home/junior/Área de Trabalho/projeto-musical/obj/Debug/net8.0/projeto-musical.AssemblyInfo.cs
+/home/junior/Área de Trabalho/projeto-musical/obj/Debug/net8.0/projeto-musical.csproj.CoreCompileInputs.cache
+/home/junior/Área de Trabalho/projeto-musical/obj/Debug/net8.0/projeto-musical.dll
+/home/junior/Área de Trabalho/projeto-musical/obj/Debug/net8.0/refint/projeto-musical.dll
+/home/junior/Área de Trabalho/projeto-musical/obj/Debug/net8.0/projeto-musical.pdb
+/home/junior/Área de Trabalho/projeto-musical/obj/Debug/net8.0/projeto-musical.genruntimeconfig.cache
+/home/junior/Área de Trabalho/projeto-musical/obj/Debug/net8.0/ref/projeto-musical.dll
