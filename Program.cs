@@ -14,7 +14,7 @@ bandasRgistradas.Add("Limp Bizkit", new List<int>());
 bandasRgistradas.Add("Korn", new List<int>{10, 9, 8});
 
 
-ExibirLogo();
+/*ExibirLogo();*/
 ExibirOpcoesDoMenu();
 
 /// <summary>
@@ -75,12 +75,16 @@ void ExibirOpcoesDoMenu()
         break;
 
         default: Console.WriteLine("Opção inválida!");
+                Thread.Sleep(2000); //Aguarda 2 segundos
+                ExibirOpcoesDoMenu();
         break;
 
     }
 
 }
-
+/// <summary>
+/// Exibe a média de uma banda registrada na lista.
+/// </summary>
 void ExibirMediaDaBanda()
 {
     Console.Clear();
